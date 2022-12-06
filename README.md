@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Before start
+
+Create a .env file and add the variables that are inside the .env.dist.\
+For the api url use the giphy api url and the api key given by the api
+
+run the script ### `npm install` to install all the dependencies
+
 ## Available Scripts
 
 In the project directory, you can run:
